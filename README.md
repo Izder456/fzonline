@@ -1,5 +1,5 @@
 # fzonline
-Three F-ZERO games ported to online.
+Some F-ZERO games ported to online.
 
 # How to Use
 go to site:
