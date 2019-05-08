@@ -1,5 +1,5 @@
 # fzonline
-All Mode7 F-ZERO games ported to online.
+All F-ZERO games except GX ported to online.
 
 # How to Use
 go to site:
